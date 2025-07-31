@@ -12,11 +12,7 @@ Daniels is a responsive portfolio website built with **HTML**, **CSS**, and **Bo
 - **HTML5**
 - **CSS3**
 - **Bootstrap 5**
-
-## 📸 Previews
-![image](https://github.com/user-attachments/assets/9ebb5326-728f-4b3c-a9c8-b9c715e10017)
-![image](https://github.com/user-attachments/assets/ee96f980-8e21-4e00-8bb4-aa482cd66793)
-
+- 
 ## 🚀 How to Run the Project
 
 ### 🔧 Setup Instructions
